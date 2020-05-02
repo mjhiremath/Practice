@@ -1,0 +1,6 @@
+Hi, I am trying to write my first pyhton programme to process the file.
+open () method used to open the file with access codes. r- is for reading the file.
+open
+OPEN
+open
+open

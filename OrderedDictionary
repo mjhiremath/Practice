@@ -1,0 +1,35 @@
+import collections as c
+print("Regular dictionary")
+d = {}
+d['a'] = 'SAS'
+d['b'] = 'PYTHON'
+d['c'] = 'Java'
+
+print(d)
+for k,v in d.items():
+    print(k, ":", v)
+
+print(" n orders dictionary")
+d1 = c.OrderedDict()
+d1['a'] = 'SAS'
+d1['c'] = 'PYTHON'
+d1['b'] = 'Java'
+d2 = c.OrderedDict(sorted(d1.items()))
+'''for k,v in d1.items():
+    print(k, ":", v)
+d2 = c.OrderedDict(sorted(d1.items(), key=lambda (k,v) : v))
+print(d2)
+'''
+
+def fun():
+    return "Cricket"
+
+#game = c.defaultdict(fun)
+game = c.defaultdict(lambda : "Baseball")
+game['A'] = 'Football'
+game['B'] = 'Badminton'
+
+print(game)
+print(game['A'])
+print(game['B'])
+print(game['C'])

@@ -1,0 +1,737 @@
+1588228518552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileTSG48L"
+1588228528317	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588228531441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588228531442	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588228531444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588228531444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588228537549	Marionette	INFO	Listening on port 57357
+1588228537831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588228572071	Marionette	INFO	Stopped listening on port 57357
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588228597660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofiley7A4kt"
+1588228598584	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588228600007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588228600007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588228600007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588228600008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588228602741	Marionette	INFO	Listening on port 57407
+1588228602936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+1588228614308	Marionette	INFO	Stopped listening on port 57407
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588229302419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofile6i3XMj"
+1588229303398	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588229305300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588229305301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588229305301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588229305301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588229309036	Marionette	INFO	Listening on port 57503
+1588229309306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588229314440	Marionette	INFO	Stopped listening on port 57503
+[Child 23072, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1580406647/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588229450013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileK5Q5QF"
+1588229451048	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588229452951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588229452951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588229452952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588229452952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588229456831	Marionette	INFO	Listening on port 57553
+1588229456910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588229463201	Marionette	INFO	Stopped listening on port 57553
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588229574774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileT4hUGz"
+1588229575663	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588229577570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588229577571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588229577571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588229577571	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588229581029	Marionette	INFO	Listening on port 57610
+1588229581070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588229585246	Marionette	INFO	Stopped listening on port 57610
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588229613665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofilemERHLJ"
+1588229614687	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588229616801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588229616801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588229616802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588229616802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588229620037	Marionette	INFO	Listening on port 57655
+1588229620063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, lne [Parent 35680, Gecko_IOThread] WARNING: fi1588229850973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Dev1588229851718	Marionette	INFO	Stopped listening on port 57655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages 1588229853608	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588229857393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588229857393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588229857393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588229857393	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588229862168	Marionette	INFO	Listening on port 57893
+1588229862601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588229865562	Marionette	INFO	Stopped listening on port 57893
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+1588229866734	addons.xpi	WARN	Addon with ID amazondotcom@search.mozilla.org already installed, older version will be disabled
+1588229866736	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229866738	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229866961	addons.xpi	WARN	Addon with ID bing@search.mozilla.org already installed, older version will be disabled
+1588229866963	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229866965	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867024	addons.xpi	WARN	Addon with ID google@search.mozilla.org already installed, older version will be disabled
+1588229867026	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867027	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867099	addons.xpi	WARN	Addon with ID twitter@search.mozilla.org already installed, older version will be disabled
+1588229867100	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867102	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867264	addons.xpi	WARN	Addon with ID wikipedia@search.mozilla.org already installed, older version will be disabled
+1588229867266	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867267	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867337	addons.xpi	WARN	Addon with ID ddg@search.mozilla.org already installed, older version will be disabled
+1588229867338	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+makeAddonVisible@XPIDatabase.jsm:2267:10
+addToDatabase@XPIDatabase.jsm:2194:12
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+1588229867339	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1464:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1464:17
+addToDatabase@XPIDatabase.jsm:2197:10
+install@XPIInstall.jsm:4338:27
+update@XPIProvider.jsm:2046:13
+async*_activateAddon@XPIInstall.jsm:4357:54
+async*installBuiltinAddon@XPIInstall.jsm:4291:16
+async*XPIProvider[meth]@XPIProvider.jsm:3112:28
+installBuiltinAddon@AddonManager.jsm:2547:7
+installBuiltinAddon@AddonManager.jsm:4074:33
+ensureBuiltinExtension@SearchService.jsm:1322:28
+_loadEngines@SearchService.jsm:1261:22
+async*_maybeReloadEngines@SearchService.jsm:1410:16
+async*fetchRegionDefault/</request.onload@SearchService.jsm:492:10
+EventHandlerNonNull*fetchRegionDefault/<@SearchService.jsm:440:5
+fetchRegionDefault@SearchService.jsm:416:3
+resolveAndReportSuccess@SearchService.jsm:327:27
+fetchRegion/</request.onload@SearchService.jsm:358:30
+EventHandlerNonNull*fetchRegion/<@SearchService.jsm:346:5
+fetchRegion@SearchService.jsm:269:10
+ensureKnownRegion@SearchService.jsm:134:13
+_init@SearchService.jsm:764:40
+async*init@SearchService.jsm:2289:18
+getDefault@SearchService.jsm:3141:16
+_updateURLBarPlaceholderFromDefaultEngine@browser.js:4266:31
+delayedStartupInit@browser.js:4131:10
+_delayedStartup@browser.js:1982:19
+EventListener.handleEvent*onLoad@browser.js:1884:12
+EventHandlerNonNull*@browser.xhtml:118:39
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588230246453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileLF8L0f"
+1588230247849	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588230251721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588230251721	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588230251722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588230251722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588230256769	Marionette	INFO	Listening on port 58382
+1588230257010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588230258939	Marionette	INFO	Stopped listening on port 58382
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 144: Error: Unknown callback
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588230271505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofile48squK"
+1588230274210	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588230276272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588230276272	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588230276273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588230276273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588230279664	Marionette	INFO	Listening on port 58433
+1588230279882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588230751300	Marionette	INFO	Stopped listening on port 58433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588230297755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588230297755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588230297756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588230297756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588230302341	Marionette	INFO	Listening on port 58481
+1588230302539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588230749431	Marionette	INFO	Stopped listening on port 58481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588230723181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588230723181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588230723182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588230723182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588230727652	Marionette	INFO	Listening on port 58715
+1588230728037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588230748717	Marionette	INFO	Stopped listening on port 58715
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588231030936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofile2OOMEd"
+1588231031985	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588231034057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588231034057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588231034058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588231034058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588231036999	Marionette	INFO	Listening on port 58837
+1588231037235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588262324828	Marionette	INFO	Stopped listening on port 58837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588231194929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588231194929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588231194930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588231194931	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588231199199	Marionette	INFO	Listening on port 58962
+1588231199434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588262324818	Marionette	INFO	Stopped listening on port 58962
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588231834151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588231834151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588231834152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588231834152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588231837697	Marionette	INFO	Listening on port 59507
+1588231837974	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7280, Gecko_IOThread] WARNING: file z:/task_1580406647/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1588262324827	Marionette	INFO	Stopped listening on port 59507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ermission: networkStatus
+1588232187927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588232187928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588232187928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588232187928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588232192911	Marionette	INFO	Listening on port 59763
+1588232193086	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://127.0.0.1:8080"
+1588262324815	Marionette	INFO	Stopped listening on port 59763
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofilec4QnX2"
+1588262224128	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588262226320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588262226320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588262226320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588262226321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588262229959	Marionette	INFO	Listening on port 64931
+1588262230278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588262324881	Marionette	INFO	Stopped listening on port 64931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588262295832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588262295833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588262295834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588262295834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588262300603	Marionette	INFO	Listening on port 65013
+1588262301019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588262326381	Marionette	INFO	Stopped listening on port 65013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588262342170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileTweWak"
+1588262343502	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588262345787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588262345787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588262345788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588262345789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588262349045	Marionette	INFO	Listening on port 65082
+1588262349553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588263348211	Marionette	INFO	Stopped listening on port 65082
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588262661819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588262661819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588262661820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588262661820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588262665038	Marionette	INFO	Listening on port 65349
+1588262665244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588263348159	Marionette	INFO	Stopped listening on port 65349
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+te" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofile2Ubx8u"
+1588262776575	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588262779344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588262779344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588262779346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588262779347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588262783835	Marionette	INFO	Listening on port 65477
+1588262784134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588263348134	Marionette	INFO	Stopped listening on port 65477
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588263373396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofile6iMQrg"
+1588263374611	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588263376697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588263376698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588263376699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588263376699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588263380084	Marionette	INFO	Listening on port 49527
+1588263380270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 260: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 1953: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 2511: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 2698: ReferenceError: $ is not defined
+1588263886860	Marionette	INFO	Stopped listening on port 49527
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588263883838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588263883839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588263883840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588263883841	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588263887949	Marionette	INFO	Listening on port 49899
+1588263887974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 260: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 1953: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 2511: ReferenceError: $ is not defined
+JavaScript error: http://127.0.0.1:8080/Movius.htm, line 2698: ReferenceError: $ is not defined
+1588269751617	Marionette	INFO	Stopped listening on port 49899
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588342632966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofilesrE7FD"
+1588342635633	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588342636736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588342636736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588342636736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588342636736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588342638530	Marionette	INFO	Listening on port 57721
+1588342638827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 9124, Gecko_IOThread] WARNING: file z:/task_1580406647/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1588342722223	Marionette	INFO	Stopped listening on port 57721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588342727069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileFLdGhI"
+1588342728563	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588342730258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588342730259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588342730259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588342730259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588342734306	Marionette	INFO	Listening on port 57813
+1588342734476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588342951857	Marionette	INFO	Stopped listening on port 57813
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588342960766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mhiremat\\AppData\\Local\\Temp\\rust_mozprofileKDcnUT"
+1588342961880	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588342963864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588342963864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588342963865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588342963865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588342967457	Marionette	INFO	Listening on port 57975
+1588342967664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1588400011707	Marionette	INFO	Stopped listening on port 57975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
